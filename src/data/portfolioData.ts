@@ -194,7 +194,7 @@ export const DOCUMENTATION_ITEMS: DocumentationItem[] = [
     context: 'Workflow Digitasi & Pembaruan Batas',
     description:
       'Proses penyuntingan dan pemutakhiran data poligon serta citra satelit pada perangkat lunak QGIS untuk memastikan kesesuaian batas wilayah kerja statistik.',
-    imageSrc: '/assets/photos/photo_04_443x960.jpg',
+    imageSrc: '/assets/photos/photo_04_qgis_clean.jpg',
     aspectClass: 'aspect-[4/3]',
     objectPosition: 'object-center',
   },
